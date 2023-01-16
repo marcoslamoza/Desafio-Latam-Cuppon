@@ -1,0 +1,42 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    
+}
+.logo_blanco{
+    width: 86px;
+    
+}
+.fondo_verde{
+    background-color: #28A745 !important;
+}
+.color_precio1{
+    text-decoration: none;
+    font-size: 16px;
+    color: #707070;
+    font-weight: 300;
+}
+.color_precio2{
+    text-decoration: none;
+    font-size: 20px;
+    color: #28A745;
+    font-weight: 500;
+}
+.card_imagenes{
+    width: 18rem;
+}
+
+.img_footer{
+    width: 82px;
+}
+.text-font{
+    font-size: 13px; 
+    color: #707070;
+}
+
+.text-color{
+    color: #707070;
+    font-size: 16px;
+}
+.card-title{
+    color: #212529 !important;
+}
