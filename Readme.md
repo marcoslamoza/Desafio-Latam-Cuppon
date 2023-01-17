@@ -1,2 +1,2 @@
-# aprendiendoo Git
+# aprendiendo Git
 git init
